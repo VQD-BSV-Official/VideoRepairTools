@@ -7,9 +7,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-*A tool to recover corrupted videos (MP4, MOV...) extracted from h264. I am developing independently, looking forward to receiving contributions from the community.
-The goal is to learn & improve file repair techniques. Thanks!*
-
 ## 🖼️ Restore your video
 How to fix:
 - 🧩 Step 1: Extract H264 (IDR, P, I...Frame)
