@@ -10,8 +10,13 @@
 *A tool to recover corrupted videos (MP4, MOV...) extracted from h264. I am developing independently, looking forward to receiving contributions from the community.
 The goal is to learn & improve file repair techniques. Thanks!*
 
-Learn From: [untrunc](https://github.com/anthwlock/untrunc), [recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm)...etc
+## 🖼️ Restore your video
+How to fix:
+- 🧩 Step 1: Extract H264 (IDR, P, I...Frame)
+- 🛠️ Step 2: Replace the title (H264) with a different one
+- 🔗 If other cases...
 
+Learn From: [untrunc](https://github.com/anthwlock/untrunc) · [recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm) · 
 
 ## Usage
 Supports analysis of all video and audio formats <br>
@@ -19,24 +24,3 @@ Supported video formats: AVC/H.264 (avc1) <br>
 
 VideoRepair - Early version: [click here](https://github.com/VQD-BSV/VideoRepairTool) <br>
 DVFix - Download here for Windows [click here](https://github.com/VQD-BSV-Official/DVFix/releases)
-
-
-Usage 1: <========> Deep File Analyze <========>
-```
-Step 1: DVFix.exe "good_file" --analyze
-Step 2: DVFix.exe "bad_file" result.h264 --repair [option]
-```
-```
-[option]: Samples Available
-        --android  ❯  AVC     ~ 00 00 00 01
-        --qt       ❯  AVC     ~ 00 00 00 01
-        --canon    ❯  XF-AVC  ~ 00 00 00 01
-        --sony     ❯  XAVC    ~ 09 (10, 30, 50) 00 00
-        --default  ❯  Use hex directly from the template file ~ 00 00 00 01 (Recommend)
-
-```
-
-Usage 2: <========> Ransomware File Analyze <========>
-```
-1 Step: DVFix.exe "bad_file" --ransom
-```
