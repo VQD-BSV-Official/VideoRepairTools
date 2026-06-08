@@ -8,10 +8,8 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ## 🖼️ Restore your video
-How to fix:
-- 🧩 Step 1: Extract H264 (IDR, P, I...Frame)
-- 🛠️ Step 2: Replace the title (H264) with a different one
-- 🔗 If other cases...
+<img width="720" height="920" alt="image" src="https://github.com/user-attachments/assets/278ea78d-d42b-4c23-9658-7163bbaf69e7" />
+
 
 Learn From: [untrunc](https://github.com/anthwlock/untrunc) · [recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm) · 
 
