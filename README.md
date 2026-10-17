@@ -5,13 +5,14 @@
 > * <img src="https://github.com/user-attachments/assets/e44b917f-01d5-4df4-af07-17703e9b553f" alt="BIDV" width="200" style="max-width: 100%; margin: 0 auto;"> <br>
 > * **Donate (Paypal)**: [Do consider donating or buying us a coffee](https://paypal.me/BSVPay)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) <br>
+Learn From: [Untrunc](https://github.com/anthwlock/untrunc) · [Recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm) · [Djifix](https://github.com/daz/djifix) · [Mp4fixer](https://github.com/bookkojot/mp4fixer)
 
 ## 🖼️ Restore your video
 <img width="480" height="615" alt="image" src="https://github.com/user-attachments/assets/278ea78d-d42b-4c23-9658-7163bbaf69e7" />
 
 
-Learn From: [untrunc](https://github.com/anthwlock/untrunc) · [recovery_mp4](https://slydiman.me/eng/mmedia/recover_mp4.htm) · [DjiFix](https://github.com/daz/djifix) · [mp4fixer](https://github.com/bookkojot/mp4fixer)
+
 
 ## Usage
 Supports analysis of all video and audio formats <br>
