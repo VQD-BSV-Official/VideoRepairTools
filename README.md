@@ -1,4 +1,4 @@
-## ***Developed by Vũ Quang Đại / <QuangDaiVQD@gmail.com>***
+## ***Developed by Vũ Quang Đại / <QDai.Dev08@gmail.com>***
 > [!Important]
 > Please respect copyright, I created this software without any cost or support. ***DO NOT STEAL THE CODE AND MAKE IT YOURS, WHILE EVERYTHING IS BUILT BY ME***. For example: edit ***Author & Developed by: Vu Quang Dai*** to your name, I know open source you can edit everything, but I want respect for the effort I put in.
 > * ```You can contact me via gmail (email) to save the files you need. This will cost you a fee, thank you. If you have any problems or questions, I will reply as soon as possible.```
